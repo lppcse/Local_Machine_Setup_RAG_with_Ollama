@@ -1,0 +1,6 @@
+{
+  "name": "Local RAG with Ollama",
+  "description": "Production-ready 100% local RAG system using LangChain, Ollama, local embeddings, and ChromaDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

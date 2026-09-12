@@ -1,0 +1,82 @@
+# STANDARD COMPANY POLICY HANDBOOK
+# Document ID: POL-HR-2026-V1
+# Effective Date: January 1, 2026
+# Target Scope: All Full-Time, Part-Time, and Contract Employees
+
+================================================================================
+SECTION 1: EMPLOYEE ONBOARDING POLICY
+================================================================================
+
+1.1 First-Day Orientation & Verification
+All new hires must complete formal orientation with People Operations on their first business day:
+- Identity and Work Authorization verification (Form I-9 / National ID) must be submitted within 3 business days of hire.
+- Hardware and credential provisioning: IT Security assigns a company laptop, standard security tokens, and corporate email access.
+- Mandatory compliance training (Data Privacy, Information Security, and Workplace Conduct) must be completed within the first 14 calendar days.
+
+1.2 The 30-60-90 Day Onboarding Plan
+Each employee is assigned a department mentor and manager-reviewed milestone plan:
+- Days 1 to 30: System access setup, team shadow sessions, reading technical/operational standard operating procedures (SOPs), and initial 1-on-1 check-ins.
+- Days 31 to 60: Independent ownership of starter tasks, integration into sprint or team workflows, and 60-day progress review.
+- Days 61 to 90: Full functional autonomy, key performance indicator (KPI) alignment, and 90-day formal onboarding evaluation.
+
+1.3 Probationary Period
+- All new full-time employees are subject to an introductory 90-day probationary period.
+- During this window, performance, role alignment, and adherence to company policies are assessed bi-weekly.
+- Successful completion transitions the employee to regular full-time standing.
+
+================================================================================
+SECTION 2: LEAVE & TIME-OFF POLICY
+================================================================================
+
+2.1 Annual Paid Time Off (PTO)
+- Full-time employees accrue 20 days of Paid Time Off (PTO) per calendar year, accrued semi-monthly at 1.67 days per month.
+- Rollover rule: Employees may roll over a maximum of 5 unused PTO days into the subsequent calendar year. Any additional unused days beyond 5 expire on December 31.
+- Advance notice: Standard vacation requests of 3 consecutive days or more require at least 2 weeks advance written notice via the HR portal.
+
+2.2 Sick and Medical Leave
+- Employees receive 10 paid sick days per year, credited on January 1st (or prorated upon hire date).
+- Consecutive absence: For medical absences lasting more than 3 consecutive working days, a signed physician note or medical clearance certificate is mandatory upon return.
+- Mental health wellness: Up to 2 of the 10 sick days may be taken as dedicated mental wellness recharge days without medical documentation.
+
+2.3 Parental & Family Leave
+- Primary caregiver leave: 16 weeks of 100% paid parental leave following childbirth, adoption, or foster placement.
+- Secondary caregiver leave: 6 weeks of 100% paid parental leave.
+- Eligibility: Available to employees after completing 6 months of continuous active service.
+
+2.4 Bereavement & Compassionate Leave
+- Up to 5 consecutive paid business days for immediate family members (spouse, child, parent, sibling).
+- Up to 3 consecutive paid business days for extended family members (grandparents, in-laws).
+
+2.5 Public Holidays & Floating Holidays
+- The organization observes 10 standard national public holidays per year.
+- Employees are additionally granted 2 floating cultural/personal holidays annually.
+
+================================================================================
+SECTION 3: EXIT & SEPARATION POLICY
+================================================================================
+
+3.1 Resignation & Notice Periods
+- Individual contributors (IC): Minimum 2 weeks (14 calendar days) formal written notice to their direct manager and People Operations.
+- Team leads and managers: Minimum 4 weeks (28 calendar days) formal written notice.
+- Directors and executive staff: Minimum 60 days formal written notice.
+- Resignations must be submitted in writing or via the official HR portal, stating the last working day.
+
+3.2 Knowledge Transfer & Handover Protocol
+Prior to the final working day, the departing employee must:
+- Complete a structured Knowledge Transfer (KT) document detailing open project status, file locations, repository permissions, and team contacts.
+- Reassign or transfer ownership of ongoing tickets, documents, cloud projects, and distribution lists.
+- Conduct at least two handover briefing meetings with the designated backfill or department manager.
+
+3.3 Company Asset Return
+By 5:00 PM on the final working day, the employee must return all corporate property:
+- Hardware: Company laptops, external monitors, mobile testing devices, chargers, and peripherals.
+- Access tokens: Physical keycards, building access badges, and YubiKeys/security tokens.
+- Digital accounts: Single Sign-On (SSO), email, Git repositories, and communication channels are automatically revoked at 6:00 PM on the termination date.
+
+3.4 Final Paycheck & Benefits Continuation
+- Final settlement: Payment of all earned wages, along with payout of accrued, unused PTO (calculated up to the last day worked), will be issued on the next regular payroll cycle or in accordance with local statutory labor regulations.
+- Health benefits: Active corporate health coverage continues through the final calendar day of the separation month.
+- COBRA / benefits continuation package notices are delivered electronically within 14 days post-separation.
+
+3.5 Exit Interview
+- An optional, confidential exit interview with a People Operations specialist is scheduled during the final week to gather feedback on company culture, leadership, and operational tooling.
